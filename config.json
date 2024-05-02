@@ -12,7 +12,7 @@
     },
     "orientation": {
         "portrait": true,
-        "landscape": false
+        "landscape": true
     },
     "permissions": [
         {
@@ -122,7 +122,7 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.1",
+    "appVersion": "0.0.2",
     "buildNumber": 1,
-    "runtimeUrl": "https://nativeapktest100-sandbox.mxapps.io"
+    "runtimeUrl": "https://nativeapktest100-sandbox.mxapps.io/"
 }
